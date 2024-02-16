@@ -1,6 +1,6 @@
 # Toddo List
 
-## This is simple Todo List project, that is written in vanila js. You can add and delete todos, and filter to them!
+## This is a simple Todo List project written in vanilla JavaScript. You can add and delete todos and filter them!
 
 ## Run the project
 
